@@ -1,6 +1,4 @@
 # Linear-Regression
-&nbsp; &nbsp; &nbsp; &nbsp;
-The contents of this project are divided into following topics which are listed as follows:- 
 
 
 ## Table of Contents
@@ -35,7 +33,7 @@ Linear Regression is a Supervised Learning Algorithm used to describe the linear
 
     y = ax + b
 
-This is the simple equation used in the Linear Regression, where a is the slope of a line and b represents the intercept.
+This is the simple equation used in the Linear Regression, where **a is the slope** of a line and **b represents the intercept**.
 
 
 ### 5. About the Dataset
@@ -44,11 +42,11 @@ This is the simple equation used in the Linear Regression, where a is the slope 
 - Given in the Repo
 
 ### 6. Insights & Findings
-- There is a positive linear relationship between TV advertising expenditure and sales — as TV ad spend increases, sales also increase.
-- The scatter plot with regression line shows the data points closely aligned, indicating a strong relationship.
+- There is a **positive linear relationship** between TV advertising expenditure and sales — as TV ad spend increases, sales also increase
+- The scatter plot with regression line shows the data points closely aligned, indicating a **strong relationship**
 
 ### 7. Conclusion
-The analysis concludes that TV advertising spend has a significant and positive impact on sales. The linear regression model is effective in predicting sales based on TV advertising expenditure, with a high explanatory power (R² score). This means businesses can use the model to estimate how changes in TV advertising budgets will likely affect sales, enabling better marketing strategy and budget allocation.
+The analysis concludes that TV advertising spend has a **significant** and **positive** impact on sales. The linear regression model is **effective** in predicting sales based on TV advertising expenditure, with a high explanatory power (R² score). This means businesses can use the model to estimate how changes in TV advertising budgets will likely affect sales, enabling better marketing strategy and budget allocation
 
 
 
